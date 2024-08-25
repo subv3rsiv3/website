@@ -3,7 +3,7 @@ layout: splash
 title: Welcome to Subvertec
 permalink: /
 header:
-  image: /assets/images/subvertec-1280.png
+  image: /assets/images/subvertec-920.png
 ---
 
 # Welcome to Subvertec
