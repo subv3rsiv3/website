@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: single
 title: Managed IT Services
-permalink: /
+permalink: /services
 ---
 
 ## Comprehensive IT Solutions for Your Business
