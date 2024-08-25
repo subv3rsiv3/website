@@ -6,7 +6,7 @@ permalink: /about
 
 ## Who We Are
 
-At [Your Company Name], we are dedicated to providing top-tier IT solutions tailored to meet the unique needs of businesses of all sizes. With over 15 years of experience in systems engineering and IT management, our team of experts delivers proactive, reliable, and personalized services that help our clients achieve their business goals.
+At Subvertec, we are dedicated to providing top-tier IT solutions tailored to meet the unique needs of businesses of all sizes. With over 15 years of experience in systems engineering and IT management, our team of experts delivers proactive, reliable, and personalized services that help our clients achieve their business goals.
 
 ## Our Mission
 

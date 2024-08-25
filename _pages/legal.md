@@ -20,7 +20,11 @@ We offer round-the-clock support to keep your practice running smoothly, minimiz
 Why Choose Us for Your Law Firm?
 
 Legal Industry Expertise: Years of experience supporting law firms.
+
 Compliance Assurance: Stay compliant with industry regulations.
+
 Confidentiality: Your clients' privacy is our top priority.
+
 Ready to Secure Your Firm?
+
 Contact Us today to schedule a consultation and learn how we can protect and optimize your firm's IT infrastructure.
