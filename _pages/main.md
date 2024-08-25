@@ -4,8 +4,6 @@ title: Managed IT Services
 permalink: /
 ---
 
-# Managed IT Services
-
 ## Comprehensive IT Solutions for Your Business
 
 ### Our Services
