@@ -3,7 +3,7 @@ layout: single
 title: Legal
 permalink: /legal
 header:
-  image: /assets/images/subvertec-crop.png
+  image: /assets/images/subvertec-cut.png
 ---
 
 ## Protect Your Firm with Specialized IT Solutions
