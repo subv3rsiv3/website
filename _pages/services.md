@@ -2,6 +2,8 @@
 layout: single
 title: Managed IT Services
 permalink: /services
+header:
+  image: /assets/images/subvertec-1280.png
 ---
 
 ## Comprehensive IT Solutions for Your Business

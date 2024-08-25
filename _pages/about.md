@@ -2,6 +2,8 @@
 layout: single
 title: About Us
 permalink: /about
+header:
+  image: /assets/images/subvertec-1280.png
 ---
 ## Who We Are
 
