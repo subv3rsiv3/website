@@ -4,6 +4,7 @@ title: About Us
 permalink: /about
 header:
   image: /assets/images/subvertec-1280.png
+  title: About Us
 ---
 ## Who We Are
 
