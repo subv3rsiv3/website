@@ -3,7 +3,7 @@ layout: single
 title: About Us
 permalink: /about
 header:
-  image: /assets/images/subvertec-920.png
+  image: /assets/images/subvertec-crop.png
   title: About Us
 ---
 ## Who We Are

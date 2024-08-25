@@ -3,6 +3,6 @@ layout: home
 title: Welcome to Subvertec
 permalink: /home
 header:
-  image: /assets/images/subvertec-920.png
+  image: /assets/images/subvertec-crop.png
 ---
-##Subvertec Home
+## Subvertec Home
