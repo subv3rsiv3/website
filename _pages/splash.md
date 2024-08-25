@@ -13,11 +13,14 @@ At Subvertec, we specialize in providing cutting-edge IT solutions that empower 
 ### Our Core Services
 
 - **Data Leak Protection**
-- **Network Upkeep**
+- **Network Design and Monitoring**
 - **Server Provisioning**
+- **Backup Solutions**
 - **Legal IT Solutions**
 - **Cloud Services**
 - **24/7 IT Support**
+- **Penetration Testing**
+- **Custom Applications**
 
 ### Why Subvertec?
 
