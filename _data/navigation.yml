@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /home
+    url: /splash
   - title: "Posts"
-    url: /posts
+    url: /home
   - title: "Legal"
     url: /legal
   - title: "Services"
