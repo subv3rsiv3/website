@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /home
   - title: "Legal"
     url: /legal
   - title: "Services"
