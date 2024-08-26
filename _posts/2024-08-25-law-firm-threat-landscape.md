@@ -3,6 +3,7 @@ layout: posts
 title: Threat Landscape for Legal Firms
 header:
   image: /assets/images/subvertec-cut.png
+tags: backup, data, phishing, ransomware, cybersecurity, data breach, legal, insider threats, business email compromise, intellectual property, social engineering, DoS attacks
 ---
 Legal firms, like many other organizations, face a variety of cybersecurity threats that can compromise sensitive client information, disrupt operations, and damage reputations. Due to the nature of their work, legal firms often handle confidential and highly sensitive data, making them prime targets for cybercriminals. Below are some of the most common threats faced by legal firms:
 
