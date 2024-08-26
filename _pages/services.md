@@ -52,5 +52,5 @@ header:
 ---
 
 **Ready to Elevate Your IT?**  
-[Contact Us](){: .btn .btn--primary} today for a free consultation and discover how we can help your business thrive.
+Contact us today for a free consultation and discover how we can help your business thrive.
 
