@@ -30,6 +30,7 @@ logo                     : "assets/images/SubvertecOther512x512.png" # path of l
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
+og_image                 : "/assets/images/SubvertecOther512x512.png"
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
