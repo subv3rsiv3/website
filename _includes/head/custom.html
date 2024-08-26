@@ -1,5 +1,11 @@
 <!-- start custom head snippets -->
-
+<script>
+    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+    {% if site.enable_copy_code_button -%}
+      window.enable_copy_code_button = true;
+    {%- endif %}
+</script>
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
 
 <!-- end custom head snippets -->
