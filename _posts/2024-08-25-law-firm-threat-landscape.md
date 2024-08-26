@@ -1,6 +1,9 @@
 ---
 layout: posts
 title: Threat Landscape for Legal Firms
+excerpt: "Understand the unique cybersecurity threats facing legal firms today. Discover how to safeguard your practice from data breaches, ransomware, and insider threats."
+seo_title: "Cybersecurity Threats for Law Firms | Protect Your Legal Practice"
+seo_description: "Explore the cybersecurity threats targeting legal firms today. Learn how to safeguard your practice from data breaches, ransomware, and insider threats."
 header:
   image: /assets/images/subvertec-cut.png
 tags: backup, data, phishing, ransomware, cybersecurity, data breach, legal, insider threats, business email compromise, intellectual property, social engineering, DoS attacks

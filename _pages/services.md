@@ -2,6 +2,9 @@
 layout: single
 title: Managed IT Services
 permalink: /services
+excerpt: "Discover the comprehensive range of services we offer. From consultation to implementation, we provide solutions tailored to your needs."
+seo_title: "Our Services | Tailored Solutions for Your Needs"
+seo_description: "Explore our comprehensive range of services, from consultation to implementation. We provide customized solutions to meet your specific needs."
 header:
   image: /assets/images/subvertec-cut.png
 ---

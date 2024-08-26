@@ -2,6 +2,9 @@
 layout: single
 title: Legal
 permalink: /legal
+excerpt: "Understand the legal terms and conditions that govern your use of our services. We are committed to transparency and your privacy."
+seo_title: "Legal Information | Terms, Conditions, and Privacy Policy"
+seo_description: "Review the legal terms, conditions, and privacy policies governing your use of our services. We prioritize transparency and your privacy."
 header:
   image: /assets/images/subvertec-cut.png
 ---

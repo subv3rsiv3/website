@@ -2,6 +2,9 @@
 layout: single
 title: About Us
 permalink: /about
+excerpt: "Discover who we are and what drives us. Learn about our mission, values, and the expertise that sets us apart in the industry."
+seo_title: "About Us | Our Mission, Values, and Expertise"
+seo_description: "Learn more about our mission, values, and expertise. Discover what drives us and sets us apart in the industry. Get to know the team behind our success."
 header:
   image: /assets/images/subvertec-cut.png
   title: About Us
