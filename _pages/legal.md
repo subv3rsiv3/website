@@ -33,4 +33,4 @@ We offer round-the-clock support to keep your practice running smoothly, minimiz
 
 **Ready to Secure Your Firm?**
 
-[Contact Us](#) today to schedule a consultation and learn how we can protect and optimize your firm's IT infrastructure.
+[Contact Us](){: .btn .btn--primary} today to schedule a consultation and learn how we can protect and optimize your firm's IT infrastructure.
