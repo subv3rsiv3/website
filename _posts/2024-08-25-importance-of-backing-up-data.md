@@ -20,7 +20,7 @@ Today, I want to talk about a critical topic that’s essential for any business
 - Start by setting up a regular schedule for backing up your data. Depending on how often your data changes, you may want to do this daily, weekly, or at another interval that makes sense for your firm. The key is consistency.
 ### Utilize the 3-2-1 Backup Strategy:
 
-- A tried-and-true method is the [3-2-1 backup strategy](/posts/2024-08-26/3-2-1-backups): keep three copies of your data, store them on two different types of media, and ensure that one copy is stored offsite. This approach protects your data from a wide range of potential disasters.
+- A tried-and-true method is the [3-2-1 backup strategy](3-2-1-backups): keep three copies of your data, store them on two different types of media, and ensure that one copy is stored offsite. This approach protects your data from a wide range of potential disasters.
 ### Automate Your Backups:
 
 - Whenever possible, automate your backups. Manual backups are prone to human error, so automation ensures that your data is always backed up without requiring daily attention. Many systems allow you to schedule automated backups with just a few clicks.
