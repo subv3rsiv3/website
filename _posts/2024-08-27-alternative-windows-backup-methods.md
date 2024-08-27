@@ -22,7 +22,7 @@ This backup is the easiest to perform. It involves placing some kind of writable
 Windows Backup is another option you can use to ensure your data is safe. You can access it by opening your start menu and typing 'backup' and clicking the 'Windows Backup' icon. This option backs up your data to the cloud. This covers your basic data areas that are associated with your user. This option may not fit some users that may have important data located elsewhere on the machine, but for most people/organizations, this is where the meat and potatoes of your data reside. 
 
 ## Robocopy
-{ % include figure popup=true image_path="/assets/images/robocopy-terminal.png" alt="Image of a terminal window with robocopy output on screen" caption"Robocopy output with no options" % }
+{% include figure popup=true image_path="/assets/images/robocopy-terminal.png" alt="Image of a terminal window with robocopy output on screen" caption"Robocopy output with no options" % }
 Robocopy is a great way to backup, I've used it for years professionally for smaller organizations that really can't afford a full backup solution. Robocopy is very powerful and has some very useful flags for backups. This includes copying permissions from the source files. You'll need to be an administrator to run this application on some folders due to security permissions. The great thing about robocopy is you can easily schedule a task to run as often as you you like (assuming you have the space of course)
 
 ## Conclusion
