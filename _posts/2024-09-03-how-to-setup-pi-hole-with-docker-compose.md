@@ -53,7 +53,7 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
       container_name: pihole
       image: pihole/pihole:latest
       environment:
-        TZ: 'America/Los_Angeles' # Set your timezone
+        TZ: 'America/New_York' # Set your timezone
         WEBPASSWORD: 'yourpassword' # Set a password for the admin interface
       volumes:
         - './etc-pihole:/etc/pihole'
