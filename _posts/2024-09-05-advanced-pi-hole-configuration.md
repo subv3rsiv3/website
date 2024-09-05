@@ -26,7 +26,7 @@ related_post: "/posts/how-to-set-up-pi-hole-docker-compose"  # Link to the previ
 Pi-hole comes preloaded with a basic ad-blocking list, but you can significantly enhance its capabilities by adding **custom block lists** to filter specific content like malware, adult sites, or tracking domains.
 
 ### How to Add Custom Block Lists:
-  - Access the Pi-hole admin interface: ``` http://<pi-hole-ip>/admin ```
+  - Access the Pi-hole admin interface: ```http://<pi-hole-ip>/admin```
   - Navigate to *Adlists*
   - Add the URLs of your desired block lists. Here are some popular block lists:
     [The adlist that I use by hagezi on github](https://github.com/hagezi/dns-blocklists) (you will have to browse to find the adlist that fits your situation best, below is the 'general use' list)
