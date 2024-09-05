@@ -95,9 +95,9 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
 - Visit a website known for displaying ads to confirm they are being blocked.
 - Use the Pi-hole admin interface to monitor your network activity and see how many ads are being blocked in real-time.
 
-## Coming Soon: Advanced Pi-hole Configuration
+## Advanced Pi-hole Configuration
 
-Now that you have Pi-hole up and running, you've made a significant leap toward a more secure, ad-free network. But this is just the beginning! In our next article, we’ll cover advanced Pi-hole configurations, including custom block lists, integration with other security tools, and performance optimization for various hardware.
+Now that you have Pi-hole up and running, you've made a significant leap toward a more secure, ad-free network. But this is just the beginning! [Check out the advanced configuration article](./2024-09-05-advanced-pi-hole-configuration.md)
 
 Stay tuned for more in-depth guides on how to enhance your network’s security!
 
