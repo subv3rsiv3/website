@@ -28,10 +28,10 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
 {% include figure popup=true image_path="/assets/images/docker-logo-960x540.png" alt="Docker Logo" caption="Docker Logo" %}
 
 - **Linux Users:**
-  `bash
+  ```bash
   sudo apt-get update
   sudo apt-get install docker.io docker-compose
-  `
+  ```
 
 - **Windows or macOS Users:**
   Download and install Docker Desktop, which includes Docker Compose.
@@ -39,13 +39,13 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
 ### 2. Create a Docker Compose File
 
 - Create a directory for your Pi-hole setup:
-  `bash
+  ```bash
   mkdir pihole
   cd pihole
-  `
+  ```
 
 - Create a `docker-compose.yml` file with the following content:
-  `yaml
+  ```yaml
   version: "3"
 
   services:
@@ -69,15 +69,15 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
 
   networks:
     pihole_network:
-  `
+  ```
 
 ### 3. Start the Pi-hole Container
 {% include figure popup=true image_path="/assets/images/pi-logo.png" alt="Pi-hole Logo" caption="Pi-hole Logo" %}
 
 - Run Docker Compose to set up and start Pi-hole:
-  `bash
+  ```bash
   sudo docker-compose up -d
-  `
+  ```
   The `-d` flag runs Pi-hole in detached mode, allowing it to continue running in the background.
 
 ### 4. Configure Your Router
