@@ -97,7 +97,7 @@ Using Docker Compose to set up Pi-hole allows for easier management and deployme
 
 ## Advanced Pi-hole Configuration
 
-Now that you have Pi-hole up and running, you've made a significant leap toward a more secure, ad-free network. But this is just the beginning! [Check out the advanced configuration article](./2024-09-05-advanced-pi-hole-configuration.md)
+Now that you have Pi-hole up and running, you've made a significant leap toward a more secure, ad-free network. But this is just the beginning! [Check out the advanced configuration article](2024-08-27-alternative-windows-backup-methods.md)
 
 Stay tuned for more in-depth guides on how to enhance your network’s security!
 
