@@ -123,9 +123,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:support@subvertec.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://site.subvertec.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://site.subvertec.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -326,3 +326,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
