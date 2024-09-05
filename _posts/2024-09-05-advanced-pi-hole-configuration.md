@@ -1,3 +1,4 @@
+---
 layout: posts
 title: "Advanced Pi-hole Configuration: Unlock the Full Potential of Your Network Ad Blocker"
 excerpt: "Take your Pi-hole setup to the next level with advanced configurations like custom block lists, performance optimizations, and integration with other security tools."
