@@ -25,17 +25,17 @@ related_post: "/posts/how-to-set-up-pi-hole-docker-compose"  # Link to the previ
 
 Pi-hole comes preloaded with a basic ad-blocking list, but you can significantly enhance its capabilities by adding **custom block lists** to filter specific content like malware, adult sites, or tracking domains.
 
-*  ### How to Add Custom Block Lists:
-  - Access the Pi-hole admin interface: {code}http://<pi-hole-ip>/admin{code}
+### How to Add Custom Block Lists:
+  - Access the Pi-hole admin interface: `http://<pi-hole-ip>/admin`
   - Navigate to *Adlists*
   - Add the URLs of your desired block lists. Here are some popular block lists:
-    * [The adlist that I use by hagezi on github](https://github.com/hagezi/dns-blocklists) (you will have to browse to find the adlist that fits your situation best, below is the 'general use' list)
-    * {code}https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt{code}
-    * {code}https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts{code}
+    [The adlist that I use by hagezi on github](https://github.com/hagezi/dns-blocklists) (you will have to browse to find the adlist that fits your situation best, below is the 'general use' list)
+    `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt`
+    `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
   - Click *Save* and then update Pi-hole by running: 
-    * {code}pihole -g{code}
+    `pihole -g`
 
-*  ### Where to Find Block Lists:
+### Where to Find Block Lists:
   - Popular sources for block lists include:
     - [firebog.net](https://firebog.net/)
     - [OISD](https://oisd.nl/)
@@ -47,25 +47,25 @@ Pi-hole comes preloaded with a basic ad-blocking list, but you can significantly
 
 Pi-hole can be expanded into a **network-wide DNS filtering solution**, helping to block access to known malicious websites, phishing domains, and unwanted content across all devices on your network.
 
-*  ### Set Up DNS Filtering:
+### Set Up DNS Filtering:
   - Edit the DHCP configuration for your network (usually it's your 'wireless router' that functions as a DHCP server) You will simply add the IP of your pi-hole installation to the first DNS entry. You'll have to wait for the lease time to expire, this can vary between networks.
 
 ##  Optimizing Pi-hole Performance
 
 To ensure Pi-hole runs efficiently, especially on larger networks or Raspberry Pi setups, consider the following optimizations:
 
-*  ### Hardware Optimization:
+### Hardware Optimization:
   - For high-traffic networks, consider upgrading to a more powerful device, such as a Raspberry Pi 4 or a dedicated mini-server.
   - Reduce logging frequency for a smoother experience on lower-power devices:
-    * {code}pihole -l 24h{code} (reduces DNS log storage to 24 hours)
+    `pihole -l 24h` (reduces DNS log storage to 24 hours)
 
-*  ### Caching DNS Queries:
+### Caching DNS Queries:
   - Enable DNS caching to reduce latency on frequently visited websites. This can be done by adjusting the **cache-size** in the Pi-hole settings.
 
-*  ### Whitelisting Critical Domains:
+### Whitelisting Critical Domains:
   - Some services (e.g., banking, streaming) may experience issues with aggressive blocking. You can whitelist critical domains through the admin interface:
-    * Go to *Domains*
-    * Add any domains that should bypass blocking and click 'Add to Whitelist'.
+    Go to *Domains*
+    Add any domains that should bypass blocking and click 'Add to Whitelist'.
 
 ---
 
