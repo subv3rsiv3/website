@@ -15,9 +15,9 @@ related_post: "/posts/how-to-set-up-pi-hole-docker-compose"  # Link to the previ
 *If you’ve followed our [basic Pi-hole setup guide](/how-to-setup-pi-hole-with-docker-compose), you already have an ad-free, secure network. But there’s much more that Pi-hole can do! In this advanced guide, we’ll show you how to unlock its full potential with custom block lists, DNS filtering, performance tweaks, and integration with other security tools.*
 
 ##  Table of Contents
-- [Custom Block Lists](#Custom-Block-Lists)
-- [Network-Wide DNS Filtering](#Network-Wide-DNS-Filtering)
-- [Optimizing Pi-hole Performance](#Optimizing-Pi-hole-Performance)
+- [Custom Block Lists](#custom-block-lists)
+- [Network-Wide DNS Filtering](#network-wide-dns-filtering)
+- [Optimizing Pi-hole Performance](#optimizing-pi-hole-performance)
 
 ---
 
@@ -73,7 +73,7 @@ To ensure Pi-hole runs efficiently, especially on larger networks or Raspberry P
 
 With these advanced configurations, your Pi-hole setup can evolve from a simple ad blocker to a comprehensive network security tool. Whether you’re optimizing for performance, expanding your filtering capabilities, or integrating with other security tools, Pi-hole offers immense flexibility.
 
-*If you haven’t set up Pi-hole yet, be sure to check out our [beginner’s guide here](https://subvertec.com/how-to-setup-pi-hole-with-docker-compose).*
+*If you haven’t set up Pi-hole yet, be sure to check out our [beginner’s guide here](/how-to-setup-pi-hole-with-docker-compose).*
 
 Stay tuned for more tech guides to further enhance your network’s security and efficiency!
 
