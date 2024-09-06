@@ -9,8 +9,6 @@ header:
   tags: ["Pi-hole", "Docker", "Network Security", "Ad Blocking", "Tech Guide", "Cybersecurity", "Home Network Security", "IT Management", "Data Protection", "DNS Sinkhole", "Ad Blocker", "Open Source", "Docker Container", "Network Tools", "Raspberry Pi", "Small Business Security"]
 ---
 
-# Pi-hole with Docker Compose for Ad Blocking and Network Security
-
 Are you looking for a reliable way to block annoying ads and improve your network security? Pi-hole, combined with Docker Compose, offers a flexible solution that works on a wide range of hardware. This guide will take you through the basic steps to set up Pi-hole using Docker Compose, making it easy to deploy on any system that supports Docker.
 
 ## What is Pi-hole?
