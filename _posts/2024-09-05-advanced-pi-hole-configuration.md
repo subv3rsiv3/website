@@ -10,8 +10,6 @@ header:
 related_post: "/posts/how-to-set-up-pi-hole-docker-compose"  # Link to the previous basic setup article
 ---
 
-# Advanced Pi-hole Configuration: Unlock the Full Potential of Your Network Ad Blocker
-
 *If you’ve followed our [basic Pi-hole setup guide](/how-to-setup-pi-hole-with-docker-compose), you already have an ad-free, secure network. But there’s much more that Pi-hole can do! In this advanced guide, we’ll show you how to unlock its full potential with custom block lists, DNS filtering, performance tweaks, and integration with other security tools.*
 
 ##  Table of Contents
