@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "How to Set Up Pi-hole with Docker Compose for Ad Blocking and Network Security"
+title: "Set Up Pi-hole with Docker Compose for Ad Blocking & Security"
 excerpt: "Learn how to set up Pi-hole using Docker Compose to block ads and secure your network across various hardware platforms."
 seo_title: "Pi-hole Setup Guide Using Docker Compose | Block Ads & Secure Your Network"
 seo_description: "Step-by-step guide on setting up Pi-hole with Docker Compose to block ads and enhance network security. Ideal for various hardware platforms including Raspberry Pi and servers."
