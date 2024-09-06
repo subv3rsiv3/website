@@ -11,10 +11,10 @@ header:
 related_post: "/posts/how-to-set-up-pi-hole-docker-compose"  # Link to the previous basic setup article
 ---
 
-{% include figure popup=true image_path="/assets/images/dark-pihole-dashboard-1920x966.png" alt="Pi-hole Dashboard Dark Theme" caption="Pi-hole Dark Theme Dashboard" %}
 *If you’ve followed our [basic Pi-hole setup guide](/how-to-setup-pi-hole-with-docker-compose), you already have an ad-free, secure network. But there’s much more that Pi-hole can do! In this advanced guide, we’ll show you how to unlock its full potential with custom block lists, DNS filtering, performance tweaks, and integration with other security tools.*
 
 ##  Table of Contents
+{% include figure popup=true image_path="/assets/images/dark-pihole-dashboard-1920x966.png" alt="Pi-hole Dashboard Dark Theme" caption="Pi-hole Dark Theme Dashboard" %}
 - [Custom Block Lists](#custom-block-lists)
 - [Network-Wide DNS Filtering](#network-wide-dns-filtering)
 - [Optimizing Pi-hole Performance](#optimizing-pi-hole-performance)
