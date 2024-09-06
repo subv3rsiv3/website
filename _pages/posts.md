@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Subvertec
+title: "Explore Subvertec: Articles, Guides, and How-To’s for Tech Enthusiasts"
 permalink: /home
 excerpt: "Explore our latest insights, tips, and news. Stay updated with our blog posts covering industry trends and best practices."
 seo_title: "Blog Posts | Latest Insights and Industry News"

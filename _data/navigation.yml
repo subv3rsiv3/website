@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /splash
+    url: /
   - title: "Posts"
     url: /home
   - title: "Legal"
