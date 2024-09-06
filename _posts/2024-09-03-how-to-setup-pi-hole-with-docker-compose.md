@@ -5,8 +5,8 @@ excerpt: "Learn how to set up Pi-hole using Docker Compose to block ads and secu
 seo_title: "Pi-hole Setup Guide Using Docker Compose | Block Ads & Secure Your Network"
 seo_description: "Step-by-step guide on setting up Pi-hole with Docker Compose to block ads and enhance network security. Ideal for various hardware platforms including Raspberry Pi and servers."
 header:  
-  og_image: /assets/images/pi-logo-400ish.png
-  teaser: /assets/images/pi-logo-400ish.png
+  og_image: /assets/images/pihole-dashboard-1250x1000.png
+  teaser: /assets/images/pihole-dashboard-1250x1000.png
   tags: ["Pi-hole", "Docker", "Network Security", "Ad Blocking", "Tech Guide", "Cybersecurity", "Home Network Security", "IT Management", "Data Protection", "DNS Sinkhole", "Ad Blocker", "Open Source", "Docker Container", "Network Tools", "Raspberry Pi", "Small Business Security"]
 ---
 
