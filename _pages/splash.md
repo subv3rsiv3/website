@@ -9,7 +9,9 @@ header:
   image: /assets/images/subvertec-cut.png
 ---
 
-# Welcome to Subvertec
+# {% include page.title %}
+
+## Welcome to Subvertec
 
 ## Transforming Technology for Your Success
 
