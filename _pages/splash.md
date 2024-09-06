@@ -9,7 +9,7 @@ header:
   image: /assets/images/subvertec-cut.png
 ---
 
-# {% include page.title %}
+# {{ page.title }}
 
 ## Welcome to Subvertec
 
