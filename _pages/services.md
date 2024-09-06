@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Managed IT Services
+title: "Managed IT Services: Tailored Solutions for Your Business Needs"
 permalink: /services
-excerpt: "Discover the comprehensive range of services we offer. From consultation to implementation, we provide solutions tailored to your needs."
+excerpt: "Explore our comprehensive IT services, from consultation to implementation, offering tailored solutions like RMM, cybersecurity, cloud management, and more."
 seo_title: "Our Services | Tailored Solutions for Your Needs"
 seo_description: "Explore our comprehensive range of services, from consultation to implementation. We provide customized solutions to meet your specific needs."
 header:

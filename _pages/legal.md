@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Legal
+title: "Legal IT Solutions: Secure, Compliant, and Optimized for Law Firms"
 permalink: /legal
-excerpt: "Understand the legal terms and conditions that govern your use of our services. We are committed to transparency and your privacy."
+excerpt: "Discover the legal terms and policies governing our services, focused on transparency, security, and privacy for law firms."
 seo_title: "Legal Information | Terms, Conditions, and Privacy Policy"
 seo_description: "Review the legal terms, conditions, and privacy policies governing your use of our services. We prioritize transparency and your privacy."
 header:

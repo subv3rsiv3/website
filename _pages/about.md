@@ -1,8 +1,8 @@
 ---
 layout: single
-title: About Us
+title: "About Subvertec: Our Mission, Values, and Expertise in IT Solutions"
 permalink: /about
-excerpt: "Discover who we are and what drives us. Learn about our mission, values, and the expertise that sets us apart in the industry."
+excerpt: "Learn about Subvertec's mission, values, and IT expertise. Discover the team driving innovation and success in tailored IT solutions for businesses."
 seo_title: "About Us | Our Mission, Values, and Expertise"
 seo_description: "Learn more about our mission, values, and expertise. Discover what drives us and sets us apart in the industry. Get to know the team behind our success."
 header:

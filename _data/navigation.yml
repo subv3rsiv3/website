@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Posts"
     url: /home
-  - title: "Legal"
-    url: /legal
+  # - title: "Legal"
+  #   url: /legal
   - title: "Services"
     url: /services
   - title: "About"

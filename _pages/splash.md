@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: Welcome to Subvertec
+title: "Subvertec: Innovative IT Solutions for Your Business Success"
 permalink: /
-excerpt: "Welcome to our platform. Discover how we can help you achieve your goals with our innovative solutions and expert guidance."
+excerpt: "Explore how we can help you achieve success with innovative IT solutions and expert guidance tailored to your business needs."
 seo_title: "Welcome to Our Platform | Innovative Solutions and Expert Guidance"
 seo_description: "Discover how we can help you achieve your goals with innovative solutions and expert guidance. Learn more about what we offer and how we can assist you."
 header:
