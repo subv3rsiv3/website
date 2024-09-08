@@ -10,7 +10,7 @@ header:
 tags: ["cybersecurity", "air-gapped systems", "side-channel attack", "RAMBO", "SDR"]
 ---
 
-# RAMBO: Exploiting Air-Gapped Systems via Radio Signals
+## RAMBO: Exploiting Air-Gapped Systems via Radio Signals
 
 Air-gapped systems are often considered one of the most secure setups, designed to isolate critical systems from external networks and the internet. However, a recently discovered attack vector known as **RAMBO** (Radio Memory Buses Operation) challenges this assumption.
 
