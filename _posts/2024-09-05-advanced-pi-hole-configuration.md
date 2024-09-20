@@ -29,9 +29,9 @@ Pi-hole comes preloaded with a basic ad-blocking list, but you can significantly
   - Access the Pi-hole admin interface: ```http://<pi-hole-ip>/admin```
   - Navigate to *Adlists*
   - Add the URLs of your desired block lists. Here are some popular block lists:
-    [The adlist that I use by hagezi on github](https://github.com/hagezi/dns-blocklists) (you will have to browse to find the adlist that fits your situation best, below is the 'general use' list)
-    ```https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt```
-    ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
+    [Ultimate Adlist (the one I use)](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) (you will have to browse to find the adlist that fits your situation best, below is the 'general use' list)
+    [Basic Multi List](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt)
+    [Included](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
   - Click *Save* and then update Pi-hole by running: 
     ```bash
     pihole -g
