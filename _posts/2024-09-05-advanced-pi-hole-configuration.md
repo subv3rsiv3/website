@@ -33,7 +33,9 @@ Pi-hole comes preloaded with a basic ad-blocking list, but you can significantly
     ```https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt```
     ```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
   - Click *Save* and then update Pi-hole by running: 
-    ```pihole -g```
+    ```bash
+    pihole -g
+    ```
 
 ### Where to Find Block Lists:
   - Popular sources for block lists include:
@@ -56,8 +58,10 @@ To ensure Pi-hole runs efficiently, especially on larger networks or Raspberry P
 
 ### Hardware Optimization:
   - For high-traffic networks, consider upgrading to a more powerful device, such as a Raspberry Pi 4 or a dedicated mini-server.
-  - Reduce logging frequency for a smoother experience on lower-power devices:
-    ```pihole -l 24h``` (reduces DNS log storage to 24 hours)
+  - Reduce logging frequency for a smoother experience on lower-power devices (reduces DNS log storage to 24 hours):
+    ```bash
+    pihole -l 24h
+    ``` 
 
 ### Caching DNS Queries:
   - Enable DNS caching to reduce latency on frequently visited websites. This can be done by adjusting the **cache-size** in the Pi-hole settings.
