@@ -38,6 +38,39 @@ Fill out the form below or contact us directly at:
   <input type="submit" value="Send Message">
 </form>
 
+<form id="contactForm" method="POST">
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
+  <button type="submit">Send Message</button>
+</form>
+
+<script>
+document.getElementById('contactForm').addEventListener('submit', function(event) {
+  event.preventDefault();
+  
+  const formData = new FormData(this);
+
+  fetch("https://formspree.io/f/mwpegkdv", {
+    method: "POST",
+    body: formData,
+    headers: {
+      'Accept': 'application/json'
+    }
+  })
+  .then(response => {
+    if (response.ok) {
+      alert("Message sent successfully!");
+      document.getElementById('contactForm').reset();
+    } else {
+      alert("There was an error sending the message.");
+    }
+  })
+  .catch(error => {
+    alert("There was an error sending the message.");
+  });
+});
+</script>
 ---
 
 We look forward to hearing from you!
