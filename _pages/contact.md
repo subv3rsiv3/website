@@ -19,7 +19,7 @@ Whether you're interested in learning more about AI consulting, have questions a
 Fill out the form below or contact us directly at:
 
 - **Email**: [support@subvertec.com](mailto:support.subvertec.com)
-- **Phone**: (407) 479-8231
+- **Phone**: [(407) 479-8231](tel:407-479-8231)
 - **Location**: Winter Park, FL 32792
 
 ---
