@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /home
   - title: "AI Consulting"
     url: /ai-consulting
   - title: "Services"
@@ -12,5 +10,7 @@ main:
     url: /about
   - title: "AI Case Studies"
     url: /case-studies
+  - title: "Posts"
+    url: /posts
   # - title: "Sitemap"
   #   url: /sitemap/
