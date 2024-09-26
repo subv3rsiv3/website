@@ -101,7 +101,9 @@ _"The AI solutions they provided helped us reduce manual labor costs by 40% whil
 **[Contact us today](mailto:support@subvertec.com)** to schedule a consultation and learn how AI can **transform** your business operations. Let us show you how easy it is to start small and grow into advanced AI applications that **maximize your ROI**.
 
 ---
+
 title: "AI Consulting FAQ"
+
 ---
 
 ## AI Consulting FAQ
