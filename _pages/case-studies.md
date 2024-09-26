@@ -6,7 +6,7 @@ excerpt: "Explore real-world AI case studies that showcase how our AI solutions 
 seo_title: "AI Case Studies | AI Solutions for Business Success"
 seo_description: "Read our AI case studies and see how businesses are leveraging our AI solutions for growth, efficiency, and transformation."
 header:
-  image: /assets/images/case-studies-header.png
+  image: /assets/images/subvertec-cut.png #/assets/images/case-studies-header.png
 ---
 
 # AI Case Studies: Real-World Business Success with AI
