@@ -7,6 +7,7 @@ seo_title: "AI Case Studies | AI Solutions for Business Success"
 seo_description: "Read our AI case studies and see how businesses are leveraging our AI solutions for growth, efficiency, and transformation."
 header:
   image: /assets/images/case-studies-header.png
+author_profile: false
 ---
 
 # AI Case Studies: Real-World Business Success with AI

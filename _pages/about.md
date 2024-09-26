@@ -8,6 +8,7 @@ seo_description: "Learn more about our mission, values, and expertise. Discover 
 header:
   image: /assets/images/subvertec-cut.png
   title: About Us
+author_profile: false
 ---
 ## Who We Are
 
