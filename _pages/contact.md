@@ -25,7 +25,7 @@ Fill out the form below or contact us directly at:
 
 ## Contact Form
 
-<form action="https://formspree.io/f/mwpegkdv" method="POST">
+<form id=contactForm action="https://formspree.io/f/mwpegkdv" method="POST">
   <label for="name">Your Name:</label><br>
   <input type="text" id="name" name="name" required><br>
 
