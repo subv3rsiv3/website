@@ -7,6 +7,7 @@ seo_title: "Contact Us | AI Consulting"
 seo_description: "Reach out to us for AI consulting services. We're here to help you implement and optimize AI solutions tailored to your business needs."
 header:
   image: /assets/images/subvertec-cut.png
+author_profile: false
 ---
 
 Whether you're interested in learning more about AI consulting, have questions about our services, or need expert advice, we're here to help. Fill out the form below, and we'll get back to you shortly.
