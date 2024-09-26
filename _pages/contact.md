@@ -23,7 +23,7 @@ Fill out the form below or contact us directly at:
 
 ---
 
-{% include site.contact %}
+{% include contact.html %}
 
 ---
 
