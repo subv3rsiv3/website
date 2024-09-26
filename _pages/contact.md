@@ -38,13 +38,6 @@ Fill out the form below or contact us directly at:
   <input type="submit" value="Send Message">
 </form>
 
-<form id="contactForm" method="POST">
-  <input type="text" name="name" placeholder="Your Name" required>
-  <input type="email" name="email" placeholder="Your Email" required>
-  <textarea name="message" placeholder="Your Message" required></textarea>
-  <button type="submit">Send Message</button>
-</form>
-
 <script>
 document.getElementById('contactForm').addEventListener('submit', function(event) {
   event.preventDefault();
