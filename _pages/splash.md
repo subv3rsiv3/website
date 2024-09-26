@@ -42,4 +42,4 @@ Contact us today to learn how Subvertec can support your business.
 
 {% include contact-form.html %}
 
-{% include site.posts_pagination %}
+{% include posts_pagination %}
