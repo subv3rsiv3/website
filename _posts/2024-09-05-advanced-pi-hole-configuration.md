@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "Advanced Pi-hole Configuration: Maximize Your Network Ad Blocker"
+permalink: /blog/advanced-pi-hole-configuration
 excerpt: "Enhance your Pi-hole with advanced configurations, custom block lists, performance tweaks, and integration with other security tools."
 seo_title: "Advanced Pi-hole Configuration | Custom Block Lists, Performance Tweaks, and More"
 seo_description: "Learn how to enhance your Pi-hole setup with advanced configurations such as custom block lists, network-wide DNS filtering, integration with security tools, and performance optimizations."

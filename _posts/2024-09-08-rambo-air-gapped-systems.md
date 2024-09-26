@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: "RAMBO: Air-Gapped Systems Attacked via Radio Signals"
+permalink: /blog/rambo-air-gapped-systems
 excerpt: "Learn how the RAMBO side-channel attack uses electromagnetic emissions to exfiltrate data from air-gapped systems without network access."
 seo_title: "RAMBO: Air-Gapped Systems Attacked via Radio Signals"
 seo_description: "The RAMBO side-channel attack allows data exfiltration from air-gapped systems using electromagnetic emissions. Learn how this sophisticated method works and its implications."

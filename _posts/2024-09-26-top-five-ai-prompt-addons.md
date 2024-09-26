@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Top 5 AI Prompt Add-Ons to Ensure High-Quality Results"
 permalink: /blog/top-5-ai-prompt-addons
 excerpt: "Discover the top 5 AI prompt techniques to ensure high-quality and efficient results from your AI tools. Learn how to optimize AI interactions for business success."

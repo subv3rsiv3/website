@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: The Importance of Regularly Backing Up Data
+permalink: /blog/importance-of-backing-up-data
 excerpt: "Learn why regular data backups are crucial for your business. Protect your valuable information from loss, corruption, and cyber threats by implementing a reliable backup strategy."
 seo_title: "The Importance of Backing Up Data | Protect Your Business Information"
 seo_description: "Understand why data backups are essential for your business. Learn how to protect your valuable information from loss, corruption, and cyber threats with effective backup strategies."
