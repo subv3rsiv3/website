@@ -10,7 +10,7 @@ main:
     url: /services
   - title: "About"
     url: /about
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "AI Case Studies"
+    url: /case-studies
   # - title: "Sitemap"
   #   url: /sitemap/

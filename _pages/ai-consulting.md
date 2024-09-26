@@ -80,6 +80,12 @@ We provide comprehensive AI training to ensure your team understands how to use 
 
 ---
 
+## Explore Our AI Success Stories
+
+Want to see how our AI solutions have transformed businesses? **[Read our case studies](/case-studies)** and explore real-world examples of AI-driven success across industries.
+
+---
+
 ## Why Choose Us for AI Consulting?
 
 - **Expertise Across Industries**: We bring years of experience applying AI across multiple sectors, from healthcare to finance.
