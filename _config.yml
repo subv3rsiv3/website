@@ -201,6 +201,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
+future: true
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -329,4 +330,3 @@ defaults:
 
 
 # Extra after stuff
-future: true
