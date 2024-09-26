@@ -9,8 +9,6 @@ header:
   image: /assets/images/subvertec-cut.png
 ---
 
-# Contact Us
-
 Whether you're interested in learning more about AI consulting, have questions about our services, or need expert advice, we're here to help. Fill out the form below, and we'll get back to you shortly.
 
 ---
@@ -27,7 +25,7 @@ Fill out the form below or contact us directly at:
 
 ## Contact Form
 
-<form action="https://formspree.io/support@subvertec.com" method="POST">
+<form action="https://formspree.io/f/mwpegkdv" method="POST">
   <label for="name">Your Name:</label><br>
   <input type="text" id="name" name="name" required><br>
 
