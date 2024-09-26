@@ -23,47 +23,8 @@ Fill out the form below or contact us directly at:
 
 ---
 
-## Contact Form
+{% include site.contact %}
 
-<form id=contactForm action="https://formspree.io/f/mwpegkdv" method="POST">
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="_replyto" required><br>
-
-  <label for="message">Your Message:</label><br>
-  <textarea id="message" name="message" rows="6" required></textarea><br>
-
-  <input type="submit" value="Send Message">
-</form>
-
-<script>
-document.getElementById('contactForm').addEventListener('submit', function(event) {
-  event.preventDefault();
-  
-  const formData = new FormData(this);
-
-  fetch("https://formspree.io/f/mwpegkdv", {
-    method: "POST",
-    body: formData,
-    headers: {
-      'Accept': 'application/json'
-    }
-  })
-  .then(response => {
-    if (response.ok) {
-      alert("Message sent successfully!");
-      document.getElementById('contactForm').reset();
-    } else {
-      alert("There was an error sending the message.");
-    }
-  })
-  .catch(error => {
-    alert("There was an error sending the message.");
-  });
-});
-</script>
 ---
 
 We look forward to hearing from you!
