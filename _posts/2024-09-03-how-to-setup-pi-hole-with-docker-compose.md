@@ -105,6 +105,6 @@ Stay tuned for more in-depth guides on how to enhance your network’s security!
 
 **Need Help?**
 
-If you need assistance with the setup or prefer a professional touch, Subvertec is here to help. Contact us today to secure your network and enjoy an ad-free browsing experience.
+If you need assistance with the setup or prefer a professional touch, Subvertec is here to help. [Contact us](/contact) today to secure your network and enjoy an ad-free browsing experience.
 
 ---

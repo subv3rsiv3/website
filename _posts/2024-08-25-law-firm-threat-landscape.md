@@ -61,4 +61,4 @@ Legal firms can mitigate these risks by implementing robust cybersecurity practi
 - Comprehensive backup strategies like the 3-2-1 backup rule.
 - Vetting and monitoring of third-party vendors for security compliance.
 
-By understanding and addressing these threats, legal firms can better protect themselves and their clients from the increasingly sophisticated landscape of cyber threats. Contact us to discuss your current needs and concerns.
+By understanding and addressing these threats, legal firms can better protect themselves and their clients from the increasingly sophisticated landscape of cyber threats. [Contact us](/contact) to discuss your current needs and concerns.

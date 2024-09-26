@@ -86,6 +86,6 @@ Stay tuned for more tech guides to further enhance your network’s security and
 
 **Need Help?**
 
-Our [tech consulting team](mailto:contact@subvertec.com) is available to help you with advanced network setups and security solutions. Reach out today for professional assistance with your Pi-hole configuration!
+Our [tech team](/contact) is available to help you with advanced network setups and security solutions. Reach out today for professional assistance with your Pi-hole configuration!
 
 ---

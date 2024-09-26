@@ -41,5 +41,3 @@ At Subvertec, we specialize in providing cutting-edge IT solutions that empower 
 Contact us today to learn how Subvertec can support your business.
 
 {% include contact-form.html %}
-
-{% include paginator.html %}

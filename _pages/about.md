@@ -30,5 +30,5 @@ Our team consists of seasoned IT professionals with diverse backgrounds in syste
 ---
 
 **Ready to Work with Us?**  
-Contact us to learn more about how we can support your business.
+[Contact Us](/contact) to learn more about how we can support your business.
 
