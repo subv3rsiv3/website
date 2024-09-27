@@ -11,8 +11,6 @@ header:
   image: /assets/images/bitlocker-tpm-header.png
 ---
 
-# How Attackers Exploit BitLocker and TPM: Physical Access During Boot
-
 **BitLocker** and **Trusted Platform Module (TPM)** are widely used to secure sensitive data on Windows-based systems. But what happens when an attacker gains **physical access** to a device? Despite the robust encryption provided by BitLocker and the hardware security of TPM, attackers can exploit vulnerabilities, particularly during the boot process. This article explores how attackers can leverage physical access to compromise systems and offers insights into mitigating these risks.
 
 ---

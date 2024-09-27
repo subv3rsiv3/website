@@ -11,8 +11,6 @@ header:
   image: /assets/images/ai-business-efficiency-header.png
 ---
 
-# Top 5 Ways AI Can Improve Your Business Efficiency
-
 Artificial Intelligence (AI) is revolutionizing the way businesses operate, allowing them to streamline workflows, enhance customer service, and boost overall efficiency. Here are the top five ways AI can help your business run smoother and more effectively.
 
 ## 1. Automating Repetitive Tasks

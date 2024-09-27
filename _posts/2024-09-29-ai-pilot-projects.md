@@ -11,8 +11,6 @@ header:
   image: /assets/images/ai-pilot-projects-header.png
 ---
 
-# How to Start Small with AI: Pilot Projects that Show Immediate ROI
-
 Adopting AI doesn't have to be an all-or-nothing investment. In fact, many businesses are finding success by starting small with **AI pilot projects** that demonstrate immediate **return on investment (ROI)**. Here’s how to start small and reap the benefits of AI without breaking the bank.
 
 ## Choose Low-Risk, High-Reward Areas
