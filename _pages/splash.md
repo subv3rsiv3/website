@@ -40,7 +40,12 @@ At Subvertec, we specialize in providing cutting-edge IT solutions that empower 
 **Get Started**  
 Contact us today to learn how Subvertec can support your business.
 
+---
+
 {% include contact-form.html %}
+
+---
+## [All Articles/Posts](/posts)
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
