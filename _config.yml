@@ -22,11 +22,11 @@ title_separator          : "-"
 subtitle                 : "Empowering Businesses with Cutting-Edge IT Solutions" # site tagline that appears below site title in masthead
 name                     : "Trent Larsen"
 description              : "Subvertec is your trusted partner in IT, offering innovative solutions tailored to your business needs. With over 15 years of experience, we specialize in data security, network management, server provisioning, and cloud services. Our expert team is dedicated to keeping your systems secure, efficient, and compliant with industry standards. At Subvertec, we understand that technology is the backbone of your business, and we’re here to ensure it works seamlessly so you can focus on growth and success."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://subvertec.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/subvertec-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/SubvertecOther512x512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/SubvertecOther512x512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -106,10 +106,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-NC08WE6VZ7"
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
