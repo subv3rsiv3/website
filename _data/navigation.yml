@@ -5,24 +5,24 @@ main:
 
   - title: "AI Consulting"
     url: /ai-consulting
-    children:
-      - title: "Top 5 AI Prompt Add-Ons to Ensure High-Quality Results"
-        url: /blog/top-5-ai-prompt-addons
+    # children:
+    #   - title: "Top 5 AI Prompt Add-Ons to Ensure High-Quality Results"
+    #     url: /blog/top-5-ai-prompt-addons
     
-      - title: "Top 5 Ways AI Can Improve Your Business Efficiency"
-        url: /blog/ai-business-efficiency
+    #   - title: "Top 5 Ways AI Can Improve Your Business Efficiency"
+    #     url: /blog/ai-business-efficiency
     
-      - title: "Understanding the Costs of AI Implementation"
-        url: /blog/ai-implementation-costs
+    #   - title: "Understanding the Costs of AI Implementation"
+    #     url: /blog/ai-implementation-costs
     
-      - title: "How to Start Small with AI: Pilot Projects that Show Immediate ROI"
-        url: /blog/ai-pilot-projects
+    #   - title: "How to Start Small with AI: Pilot Projects that Show Immediate ROI"
+    #     url: /blog/ai-pilot-projects
     
-      - title: "AI-Powered Personalization: How to Increase Customer Loyalty and Sales"
-        url: /blog/ai-customer-loyalty-sales
+    #   - title: "AI-Powered Personalization: How to Increase Customer Loyalty and Sales"
+    #     url: /blog/ai-customer-loyalty-sales
     
-      - title: "The Role of AI in Data Privacy and Compliance"
-        url: /blog/ai-data-privacy-compliance
+    #   - title: "The Role of AI in Data Privacy and Compliance"
+    #     url: /blog/ai-data-privacy-compliance
   
   - title: "Services"
     url: /services
