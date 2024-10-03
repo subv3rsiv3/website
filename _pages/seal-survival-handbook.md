@@ -11,4 +11,4 @@ header:
 author_profile: false
 ---
 
-<object data="assets\documents\The US Navy SEAL Survival Handbook.pdf" width="max-content" height="max-content" type='application/pdf'></object>
+<object data="assets\documents\The US Navy SEAL Survival Handbook.pdf" type='application/pdf'></object>
