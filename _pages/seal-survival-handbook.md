@@ -14,7 +14,7 @@ permalink: /seal-survival-handbook
 # US Navy SEAL Survival Handbook
 
 <div class="pdf-container">
-    <iframe src="assets/documents/The US Navy SEAL Survival Handbook.pdf" width="100%" height="800px">
+    <iframe src="assets/documents/The US Navy SEAL Survival Handbook.pdf" width="80%" height="800px">
         Your browser does not support iframes. Download the PDF instead:
         <a href="assets/documents/The US Navy SEAL Survival Handbook.pdf">Download PDF</a>
     </iframe>
