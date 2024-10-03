@@ -11,7 +11,7 @@ permalink: /seal-survival-handbook
 # author_profile: false
 ---
 
-# US Navy SEAL Survival Handbook
+<h1 style="text-align: center">US Navy SEAL Survival Handbook</h1>
 
 <div class="pdf-container">
     <iframe src="assets/documents/The US Navy SEAL Survival Handbook.pdf" width="100%" height="800px">

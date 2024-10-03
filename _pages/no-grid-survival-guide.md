@@ -11,7 +11,7 @@ permalink: /no-grid
 # author_profile: false
 ---
 
-# No Grid Survival Projects - A Detailed Guide to Survive Anywhere – Projects, Power Systems and First Aid Kit
+<h1 style="text-align: center">No Grid Survival Projects - A Detailed Guide to Survive Anywhere – Projects, Power Systems and First Aid Kit</h1>
 
 <div class="pdf-container">
     <iframe src="/assets/documents/No Grid Survival Projects_ A Detailed Guide to Survive Anywhere – Projects, Power Systems and First Aid Kit - Maggard, Brian.pdf" width="80%" height="800px">
