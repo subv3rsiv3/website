@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/documents/
+Disallow: /assets/documents/No Grid Survival Projects_ A Detailed Guide to Survive Anywhere – Projects, Power Systems and First Aid Kit - Maggard, Brian.pdf
+Disallow: /assets/documents/The US Navy SEAL Survival Handbook.pdf
+Disallow: /_pages/no-grid-survival-guide.md
+Disallow: /_pages/seal-survival-handbook.md
+Disallow: /no-grid/
+Disallow: /seal-survival-handbook/
