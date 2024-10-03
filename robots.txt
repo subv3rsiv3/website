@@ -2,7 +2,11 @@ User-agent: *
 Disallow: /assets/documents/
 Disallow: /assets/documents/No Grid Survival Projects_ A Detailed Guide to Survive Anywhere – Projects, Power Systems and First Aid Kit - Maggard, Brian.pdf
 Disallow: /assets/documents/The US Navy SEAL Survival Handbook.pdf
+Disallow: /assets/documents/The Forager’s Guide to Wild Foods_section_1.pdf
+Disallow: /assets/documents/The Forager’s Guide to Wild Foods_section_2.pdf
+Disallow: /_pages/wild-foods.md
 Disallow: /_pages/no-grid-survival-guide.md
 Disallow: /_pages/seal-survival-handbook.md
 Disallow: /no-grid/
 Disallow: /seal-survival-handbook/
+Disallow: /wild-foods/
