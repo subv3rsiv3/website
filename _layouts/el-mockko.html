@@ -2,117 +2,47 @@
 layout: default
 ---
 
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+<h2 style="text-align: center">Here’s the tool that lets you mockify your text!</h2>
 
-        .container {
-            width: 80%;
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+<div class="el-mockko-container">
+  <h2 style="text-align: center;">El Mockko - Text Alternator</h2>
 
-        h2 {
-            text-align: center;
-        }
-
-        label {
-            display: block;
-            margin-top: 10px;
-        }
-
-        input, textarea {
-            width: 100%;
-            padding: 10px;
-            margin-top: 5px;
-            margin-bottom: 10px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-
-        button {
-            background-color: #007bff;
-            color: white;
-            padding: 10px;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            display: block;
-            width: 100%;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        .result {
-            background-color: #eaeaea;
-            padding: 10px;
-            border-radius: 4px;
-            margin-top: 10px;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <h2 style="text-align: center;">El Mockko - Text Alternator</h2>
-
-        <!-- Input Text Area -->
-        <label for="inputText">Enter Text:</label>
-        <textarea id="inputText" rows="4" placeholder="Type your text here..."></textarea>
+  <label style="text-align: center" for="inputText">Enter Text:</label>
+  <textarea style="text-align: center" id="inputText" rows="4" placeholder="Type your text here..."></textarea>
 
         <!-- Output Area -->
-        <label for="outputText">Converted Text:</label>
-        <input type="text" id="outputText" readonly>
+  <label style="text-align: center" for="outputText">Converted Text:</label>
+  <input style="text-align: center" type="text" id="outputText" readonly>
 
         <!-- Action Buttons -->
-        <button onclick="convertText()">Mockify</button>
-        <button onclick="copyToClipboard()">Copy to Clipboard</button>
+  <button style="text-align: center; position: sticky; right:80%;" onclick="convertText()">Mockify</button>
+  <button style="text-align: center; position: sticky; left:80%;" onclick="copyToClipboard()">Copy to Clipboard</button>
+  
+  <div style="text-align: center" id="output" class="el-mockko-result"></div>
+</div>
 
-        <!-- Output Result Display -->
-        <div id="output" class="result"></div>
-    </div>
-
-    <!-- JavaScript for Mockify and Clipboard functionality -->
-    <script>
-        function convertText() {
-            const input = document.getElementById('inputText').value;
-            let mockified = '';
-            let toggle = true;
-            for (let i = 0; i < input.length; i++) {
-                let char = input[i];
-                if (char.match(/[a-z]/i)) {
-                    mockified += toggle ? char.toLowerCase() : char.toUpperCase();
-                    toggle = !toggle;
+<script>
+  function convertText() {
+    const input = document.getElementById('inputText').value;
+    let mockified = '';
+    let toggle = true;
+    for (let i = 0; i < input.length; i++) {
+            let char = input[i];
+            if (char.match(/[a-z]/i)) {
+                mockified += toggle ? char.toLowerCase() : char.toUpperCase();
+                toggle = !toggle;
                 } else {
-                    mockified += char;
+                  mockified += char;
                 }
-            }
+    }
             document.getElementById('outputText').value = mockified;
             document.getElementById('output').textContent = mockified;
-        }
+    }
 
-        function copyToClipboard() {
-            const text = document.getElementById('outputText');
-            text.select();
-            document.execCommand('copy');
-            alert('Copied to clipboard!');
+  function copyToClipboard() {
+        const text = document.getElementById('outputText');
+        text.select();
+        document.execCommand('copy');
+        alert('Copied to clipboard!');
         }
-    </script>
-</body>
-</html>
+</script>

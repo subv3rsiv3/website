@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: el-mockko
 title: "El Mockko"
 permalink: /el-mockko/
 ---
 
+```
 <h2 style="text-align: center">Here’s the tool that lets you mockify your text!</h2>
 
 <div class="el-mockko-container">
@@ -48,3 +49,4 @@ permalink: /el-mockko/
         alert('Copied to clipboard!');
         }
 </script>
+```
