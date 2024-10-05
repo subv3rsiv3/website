@@ -10,19 +10,19 @@ Here’s the tool that lets you mockify your text!
         <h2 style="text-align: center;">El Mockko - Text Alternator</h2>
 
        <!-- Input Text Area -->
-   <label for="inputText">Enter Text:</label>
-        <textarea id="inputText" rows="4" placeholder="Type your text here..."></textarea>
+   <label style="text-align: center" for="inputText">Enter Text:</label>
+        <textarea style="text-align: center" id="inputText" rows="4" placeholder="Type your text here..."></textarea>
 
         <!-- Output Area -->
-   <label for="outputText">Converted Text:</label>
-   <input type="text" id="outputText" readonly>
+   <label style="text-align: center" for="outputText">Converted Text:</label>
+   <input style="text-align: center" type="text" id="outputText" readonly>
 
         <!-- Action Buttons -->
-   <button onclick="convertText()">Mockify</button>
-   <button onclick="copyToClipboard()">Copy to Clipboard</button>
+   <button style="text-align: center" onclick="convertText()">Mockify</button>
+   <button style="text-align: center" onclick="copyToClipboard()">Copy to Clipboard</button>
 
         <!-- Output Result Display -->
-   <div id="output" class="el-mockko-result"></div>
+   <div style="text-align: center" id="output" class="el-mockko-result"></div>
     </div>
 
     <!-- JavaScript for Mockify and Clipboard functionality -->
