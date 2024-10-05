@@ -4,7 +4,7 @@ title: "El Mockko"
 permalink: /el-mockko/
 ---
 
-Here’s the tool that lets you mockify your text!
+<h2 style="text-align: center">Here’s the tool that lets you mockify your text!</h2>
 
    <div class="el-mockko-container">
         <h2 style="text-align: center;">El Mockko - Text Alternator</h2>
@@ -25,7 +25,6 @@ Here’s the tool that lets you mockify your text!
    <div style="text-align: center" id="output" class="el-mockko-result"></div>
     </div>
 
-    <!-- JavaScript for Mockify and Clipboard functionality -->
 <script>
    function convertText() {
         const input = document.getElementById('inputText').value;
