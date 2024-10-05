@@ -1,0 +1,123 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Mockko</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            display: block;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result {
+            background-color: #eaeaea;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 10px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 style="text-align: center;">El Mockko - Text Alternator</h2>
+
+        <!-- Input Text Area -->
+        <label for="inputText">Enter Text:</label>
+        <textarea id="inputText" rows="4" placeholder="Type your text here..."></textarea>
+
+        <!-- Output Area -->
+        <label for="outputText">Converted Text:</label>
+        <input type="text" id="outputText" readonly>
+
+        <!-- Action Buttons -->
+        <button onclick="convertText()">Mockify</button>
+        <button onclick="copyToClipboard()">Copy to Clipboard</button>
+
+        <!-- Output Result Display -->
+        <div id="output" class="result"></div>
+    </div>
+
+    <!-- JavaScript for Mockify and Clipboard functionality -->
+    <script>
+        function convertText() {
+            const input = document.getElementById('inputText').value;
+            let mockified = '';
+            let toggle = true;
+            for (let i = 0; i < input.length; i++) {
+                let char = input[i];
+                if (char.match(/[a-z]/i)) {
+                    mockified += toggle ? char.toUpperCase() : char.toLowerCase();
+                    toggle = !toggle;
+                } else {
+                    mockified += char;
+                }
+            }
+            document.getElementById('outputText').value = mockified;
+            document.getElementById('output').textContent = mockified;
+        }
+
+        function copyToClipboard() {
+            const text = document.getElementById('outputText');
+            text.select();
+            document.execCommand('copy');
+            alert('Copied to clipboard!');
+        }
+    </script>
+</body>
+</html>
