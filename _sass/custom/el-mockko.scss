@@ -1,14 +1,14 @@
-// body {
-//     font-family: Arial, sans-serif;
-//     background-color: #f4f4f9;
-//     color: #333;
-//     display: flex;
-//     justify-content: center;
-//     align-items: center;
-//     height: 100vh;
-// }
+.gahd-body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
-.container {
+.el-mockko-container {
     width: 80%;
     max-width: 600px;
     margin: 0 auto;
@@ -18,16 +18,16 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h2 {
+.el-mockko-h2 {
     text-align: center;
 }
 
-label {
+.el-mockko-label {
     display: block;
     margin-top: 10px;
 }
 
-input, textarea {
+.el-mockko-input, .el-mockko-textarea {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
@@ -36,7 +36,7 @@ input, textarea {
     border-radius: 4px;
 }
 
-button {
+.el-mockko-button {
     background-color: #007bff;
     color: white;
     padding: 10px;
@@ -47,11 +47,11 @@ button {
     width: 100%;
 }
 
-button:hover {
+.el-mockko-button:hover {
     background-color: #0056b3;
 }
 
-.result {
+.el-mockko-result {
     background-color: #eaeaea;
     padding: 10px;
     border-radius: 4px;
