@@ -2,12 +2,7 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Mockko</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -102,7 +97,7 @@ layout: default
             for (let i = 0; i < input.length; i++) {
                 let char = input[i];
                 if (char.match(/[a-z]/i)) {
-                    mockified += toggle ? char.toUpperCase() : char.toLowerCase();
+                    mockified += toggle ? char.toLowerCase() : char.toUpperCase();
                     toggle = !toggle;
                 } else {
                     mockified += char;
