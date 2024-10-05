@@ -26,11 +26,11 @@ Here’s the tool that lets you mockify your text!
     </div>
 
     <!-- JavaScript for Mockify and Clipboard functionality -->
-    <script>
-        function convertText() {
-            const input = document.getElementById('inputText').value;
-            let mockified = '';
-            let toggle = true;
+<script>
+   function convertText() {
+        const input = document.getElementById('inputText').value;
+        let mockified = '';
+        let toggle = true;
             for (let i = 0; i < input.length; i++) {
                 let char = input[i];
                 if (char.match(/[a-z]/i)) {
@@ -50,4 +50,4 @@ Here’s the tool that lets you mockify your text!
             document.execCommand('copy');
             alert('Copied to clipboard!');
         }
-    </script>
+</script>
