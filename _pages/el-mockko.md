@@ -17,9 +17,8 @@ permalink: /el-mockko/
   <input style="text-align: center" type="text" id="outputText" readonly>
 
         <!-- Action Buttons -->
-  <button style="text-align: center" onclick="convertText()">Mockify</button>
-  <button style="text-align: center" onclick="copyToClipboard()">Copy to Clipboard</button>
-
+  <button style="text-align: center; position: sticky; right:80%;" onclick="convertText()">Mockify</button>
+  <button style="text-align: center; position: sticky; left:80%;" onclick="copyToClipboard()">Copy to Clipboard</button>
   
   <div style="text-align: center" id="output" class="el-mockko-result"></div>
 </div>
