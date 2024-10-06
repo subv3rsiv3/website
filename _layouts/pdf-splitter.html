@@ -9,11 +9,11 @@ layout: default
     <input class="input"; type="file" id="pdfFile" accept="application/pdf">
 
     <!-- Page Ranges -->
-    <div id="pageRanges">
+    <div style="text-align: center"; id="pageRanges">
         <div class="page-range">
-            <input type="number" class="startPage" placeholder="Start Page">
-            <input type="number" class="endPage" placeholder="End Page">
-            <button onclick="deleteRange(this)">Delete</button>
+            <h2>Start Page</h2><input style="position: relative; width: 25%;" type="number" class="startPage" placeholder="Start Page"> 
+            <h2>End Page</h2><input style="position: relative; width: 25%;" type="number" class="endPage" placeholder="End Page">
+            <button onclick="deleteRange(this)">Remove Range</button>
         </div>
     </div>
 
@@ -21,7 +21,7 @@ layout: default
     <button class="button"; onclick="addPageRange()">Add Page Range</button>
 
     <!-- Split PDF Button -->
-    <button class="button"; onclick="splitPDF()">Split PDF</button>
+    <button class="button"; onclick="splitPDF()">Split and Download PDF</button>
 
 </div>
 
