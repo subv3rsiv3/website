@@ -11,15 +11,12 @@ layout: default
     <!-- Page Ranges -->
     <div style="text-align: center"; id="pageRanges">
         <div class="page-range">
-            <h2>Start Page</h2><input style="position: relative; width: 25%;" type="number" class="startPage" placeholder="Start Page"> 
-            <h2>End Page</h2><input style="position: relative; width: 25%;" type="number" class="endPage" placeholder="End Page">
+            <h2>Start Page</h2><input style="position: relative;" type="number" class="startPage" placeholder="Start Page"> 
+            <h2>End Page</h2><input style="position: relative;" type="number" class="endPage" placeholder="End Page">
         </div>
         <button style="position: sticky; left: 0%;" class="button"; onclick="addPageRange()">Add Page Range</button>
-        <button style="position: sticky; right: 0%;" class="button"; deleteRange(this)">Remove Page Range</button>
+        <button style="position: sticky; right: 0%;" deleteRange(this)">Remove Page Range</button>
     </div>
-
-    <!-- Add Page Range Button -->
-
 
     <!-- Split PDF Button -->
     <button style="position: sticky; left: 44%;" class="button"; onclick="splitPDF()">Split and Download PDF</button>
@@ -40,21 +37,21 @@ layout: default
         }
     });
 
-    // Add more page ranges
-    function addPageRange() {
+ // Add more page ranges
+ function addPageRange() {
         const pageRangesDiv = document.getElementById('pageRanges');
         const newRange = document.createElement('div');
         newRange.className = 'page-range';
         newRange.innerHTML = `
-            <input type="number" class="startPage" placeholder="Start Page">
-            <input type="number" class="endPage" placeholder="End Page">
-            <button onclick="deleteRange(this)">Delete</button>
+            <h2>Start Page</h2><input style="position: relative;" type="number" class="startPage" placeholder="Start Page">
+            <h2>End Page</h2><input style="position: relative;" type="number" class="endPage" placeholder="End Page">
+            <button onclick="deleteRange(this)">Remove Page Range</button>
         `;
         pageRangesDiv.appendChild(newRange);
     }
 
-    // Delete a page range
-    function deleteRange(button) {
+// Delete a page range (including initial one)
+function deleteRange(button) {
         const rangeDiv = button.parentElement;
         rangeDiv.remove();
     }
