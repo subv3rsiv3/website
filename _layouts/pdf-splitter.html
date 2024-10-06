@@ -5,23 +5,23 @@ layout: default
     <h2 class="pdf-split-h2">PDF Splitter</h2>
 
     <!-- File Selection -->
-    <label class="pdf-split-label"; for="pdfFile">Select PDF File:</label>
-    <input class="pdf-split-input"; type="file" id="pdfFile" accept="application/pdf">
+    <label class="label"; for="pdfFile">Select PDF File:</label>
+    <input class="input"; type="file" id="pdfFile" accept="application/pdf">
 
     <!-- Page Ranges -->
     <div id="pageRanges">
-        <div class="pdf-split-page-range">
-            <input type="number" class="pdf-split-startPage" placeholder="Start Page">
-            <input type="number" class="pdf-split-endPage" placeholder="End Page">
+        <div class="page-range">
+            <input type="number" class="startPage" placeholder="Start Page">
+            <input type="number" class="endPage" placeholder="End Page">
             <button onclick="deleteRange(this)">Delete</button>
         </div>
     </div>
 
     <!-- Add Page Range Button -->
-    <button class="pdf-split-button"; onclick="addPageRange()">Add Page Range</button>
+    <button class="button"; onclick="addPageRange()">Add Page Range</button>
 
     <!-- Split PDF Button -->
-    <button class="pdf-split-button"; onclick="splitPDF()">Split PDF</button>
+    <button class="button"; onclick="splitPDF()">Split PDF</button>
 
 </div>
 
@@ -43,10 +43,10 @@ layout: default
     function addPageRange() {
         const pageRangesDiv = document.getElementById('pageRanges');
         const newRange = document.createElement('div');
-        newRange.className = 'pdf-split-page-range';
+        newRange.className = 'page-range';
         newRange.innerHTML = `
-            <input type="number" class="pdf-split-startPage" placeholder="Start Page">
-            <input type="number" class="pdf-split-endPage" placeholder="End Page">
+            <input type="number" class="startPage" placeholder="Start Page">
+            <input type="number" class="endPage" placeholder="End Page">
             <button onclick="deleteRange(this)">Delete</button>
         `;
         pageRangesDiv.appendChild(newRange);
