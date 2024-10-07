@@ -42,7 +42,6 @@ layout: default
  function addPageRange() {
         
         const pageRangesDiv = document.getElementById('pageRanges');
-        if (pageRangesDiv.childElementCount > 1) {
         const newRange = document.createElement('div');
         newRange.className = 'page-range';
         newRange.innerHTML = `
@@ -51,8 +50,6 @@ layout: default
             <button onclick="deleteRange(this)">Remove Page Range</button>
         `;
         pageRangesDiv.appendChild(newRange);
-        }
-        
     }
 
 // Delete a page range (including initial one)
