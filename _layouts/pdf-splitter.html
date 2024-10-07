@@ -11,9 +11,9 @@ layout: default
     <!-- Page Ranges -->
     <div style="text-align: center"; id="pageRanges">
         <div class="page-range">
-            <h2>Start Page</h2><input style="position: relative;" type="number" class="startPage" placeholder="Start Page"> 
-            <h2>End Page</h2><input style="position: relative;" type="number" class="endPage" placeholder="End Page">
-            <button style="position: sticky; right: 0%;" deleterange(this)>Remove Page Range</button>
+            <h2>Start Page</h2><input style="position: relative;" type="number" class="startPage" id="firstStartPage" placeholder="Start Page"> 
+            <h2>End Page</h2><input style="position: relative;" type="number" class="endPage" id="firstEndPage" placeholder="End Page">
+            <button style="position: sticky; right: 0%;" clearPageRange()>Clear Page Range</button>
         </div>
 
     </div>
@@ -38,8 +38,12 @@ layout: default
         }
     });
 
- // Add more page ranges
- function addPageRange() {
+    function clearPageRange() {
+        document.getElementById("firstStartPage").placeholder = "Start Page"
+        document.getElementById("firstEndPage").placeholder = "End Page"
+    }
+     // Add more page ranges
+    function addPageRange() {
         
         const pageRangesDiv = document.getElementById('pageRanges');
         const newRange = document.createElement('div');
