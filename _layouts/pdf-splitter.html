@@ -13,13 +13,14 @@ layout: default
         <div class="page-range">
             <h2>Start Page</h2><input style="position: relative;" type="number" class="startPage" placeholder="Start Page"> 
             <h2>End Page</h2><input style="position: relative;" type="number" class="endPage" placeholder="End Page">
+            <button style="position: sticky; right: 0%;" deleterange(this)>Remove Page Range</button>
         </div>
-        <button style="position: sticky; left: 0%;" class="button"; onclick="addPageRange()">Add Page Range</button>
-        <button style="position: sticky; right: 0%;" deleteRange(this)">Remove Page Range</button>
+
     </div>
 
     <!-- Split PDF Button -->
-    <button style="position: sticky; left: 44%;" class="button"; onclick="splitPDF()">Split and Download PDF</button>
+    <button style="position: sticky; left: 0%;" class="button"; onclick="addPageRange()">Add Page Range</button>
+    <button style="position: sticky; left: 100%;" class="button"; onclick="splitPDF()">Split and Download PDF</button>
 
 </div>
 
@@ -39,7 +40,9 @@ layout: default
 
  // Add more page ranges
  function addPageRange() {
+        
         const pageRangesDiv = document.getElementById('pageRanges');
+        if (pageRangesDiv.childElementCount > 1) {
         const newRange = document.createElement('div');
         newRange.className = 'page-range';
         newRange.innerHTML = `
@@ -48,6 +51,8 @@ layout: default
             <button onclick="deleteRange(this)">Remove Page Range</button>
         `;
         pageRangesDiv.appendChild(newRange);
+        }
+        
     }
 
 // Delete a page range (including initial one)
