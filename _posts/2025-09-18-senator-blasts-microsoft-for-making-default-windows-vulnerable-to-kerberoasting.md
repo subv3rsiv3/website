@@ -1,27 +1,25 @@
 ---
 layout: posts
 title: Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”
-date: '2025-09-18 18:35:26 '
-excerpt: '### Microsoft’s Default Security Blunders Leave Doors Wide Open for Attacks Senator Ron Wyden slammed Microsoft after his team dug into the Ascension ransomware breach, revealing how hackers exploited a contractor’s infected laptop via Micr'
+date: '2025-09-18 19:39:43 '
+excerpt: '### Microsoft Under Fire for Default Windows Security Flaws in Kerberoasting Attacks Senator Ron Wyden has slammed Microsoft for its default Windows configurations that leave systems open to Kerberoasting, a technique hackers use to crack p'
 seo_title: Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”
-seo_description: '### Microsoft’s Default Security Blunders Leave Doors Wide Open for Attacks Senator Ron Wyden slammed Microsoft after his team dug into the Ascension ranso'
+seo_description: '### Microsoft Under Fire for Default Windows Security Flaws in Kerberoasting Attacks Senator Ron Wyden has slammed Microsoft for its default Windows config'
 categories:
 - Security
 - Azure
-- AI_Automation
 tags:
 - Security
 - Azure
-- AI_Automation
 permalink: /blog/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/
 ---
 
-### Microsoft’s Default Security Blunders Leave Doors Wide Open for Attacks Senator Ron Wyden slammed Microsoft after his team dug into the Ascension ransomware breach, revealing how hackers exploited a contractor’s infected laptop via Microsoft Edge and Bing to infiltrate the network. The real kicker? Attackers used Kerberoasting, a technique that abuses Microsoft’s outdated Active Directory defaults, allowing them to crack admin passwords and spread malware like wildfire. This stems from Microsoft’s stubborn reliance on insecure RC4 encryption, which makes even supposedly strong passwords vulnerable to rapid GPU-powered cracking attacks. For SMBs and MSPs, this highlights a critical risk: relying on out-of-the-box Windows setups could turn your network into an easy target for ransomware gangs, potentially leading to costly disruptions and data losses. What’s irritating is Microsoft’s lack of urgency in fixing this—despite announcing plans to phase out the problematic tech over a year ago, they’ve offered no clear timeline or straightforward warnings, leaving smaller outfits to fend for themselves. Takeaways: - Default Windows settings heighten ransomware risks for SMB networks.
+### Microsoft Under Fire for Default Windows Security Flaws in Kerberoasting Attacks Senator Ron Wyden has slammed Microsoft for its default Windows configurations that leave systems open to Kerberoasting, a technique hackers use to crack passwords and spread malware, as seen in the Ascension health breach. In that incident, attackers started with a simple browser infection on a contractor's laptop and escalated to compromising Active Directory, allowing widespread network takeover. The root problem? Microsoft's ongoing use of outdated RC4 encryption, which makes privileged account passwords ridiculously easy to brute-force, even with strong passwords, thanks to GPU-powered cracking. This lazy design choice puts SMBs and MSPs at higher risk, as their limited IT resources often mean sticking with defaults, potentially exposing them to ransomware without realizing it. Worse, Microsoft hasn't set a clear timeline for fixing this mess, despite announcing plans over a year ago, leaving small businesses to fend for themselves amid vague warnings. Takeaways: - SMBs risk easy network breaches from default Kerberoasting vulnerabilities.
 
         **Key takeaways**
-        - Cracking admin passwords is faster with GPUs, amplifying threats.
-- Enforce passwords over 14 characters to mitigate Kerberoasting.
-- Upgrading from RC4 could avoid future breach costs for MSPs.
-- Demand clearer Microsoft updates to protect your systems.
+        - Enforce 14+ character passwords to counter cracking threats.
+- GPU attacks make unsalted hashes a costly security gap.
+- Update Active Directory settings to avoid malware spread.
+- Demand clearer timelines from Microsoft for RC4 deprecation.
 
         **Source:** [https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/](https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/)
