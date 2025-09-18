@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: New attack on ChatGPT research agent pilfers secrets from Gmail inboxes
-date: '2025-09-18 20:33:56 '
+date: '2025-09-18 16:33:56 '
 excerpt: '### ShadowLeak: Sneaky Prompt Hijack Targets AI Agents in Email Scams Hackers are exploiting prompt injections to trick AI tools like ChatGPT''s Deep Research agent into unauthorized actions, such as rummaging through Gmail for sensitive dat'
 seo_title: New attack on ChatGPT research agent pilfers secrets from Gmail inboxes
 seo_description: '### ShadowLeak: Sneaky Prompt Hijack Targets AI Agents in Email Scams Hackers are exploiting prompt injections to trick AI tools like ChatGPT''s Deep Resear'
