@@ -16,8 +16,8 @@ seo_description: The Department of Justice is doubling down in its antitrust bat
 permalink: /blog/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes/
 header:
   image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
-  # overlay_color: '#000'
-  overlay_filter: 0.3
+  overlay_color: '#000'
+  # overlay_filter: 0.3
 image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
 og_image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
 twitter_image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
