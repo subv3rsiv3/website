@@ -17,7 +17,7 @@ permalink: /blog/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resu
 header:
   image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
   # overlay_color: '#000'
-  # overlay_filter: 0.3
+  overlay_filter: 0.3
 image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
 og_image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
 twitter_image: /assets/images/doj-aims-to-break-up-googles-ad-business-as-antitrust-case-resumes-hero.webp
