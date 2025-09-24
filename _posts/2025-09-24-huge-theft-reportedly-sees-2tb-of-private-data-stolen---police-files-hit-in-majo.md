@@ -2,7 +2,7 @@
 layout: single
 title: Huge theft reportedly sees 2TB of private data stolen - police files hit in major breach
 date: '2025-09-24 03:44:33 '
-excerpt: Brazilian health tech outfit Maida
+excerpt: Brazilian health tech outfit Maida.health is in hot water after cybercriminals
 seo_title: Huge theft reportedly sees 2TB of private data stolen - police files hit in major breach
 seo_description: Brazilian health tech outfit Maida.health is in hot water after cybercriminals allegedly swiped a whopping 2.3TB of sensitive data, including medical recor
 categories:
