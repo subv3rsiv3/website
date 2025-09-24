@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Car giant Stellantis confirms data breach after third-party hit by cyberattack
-date: '2025-09-23 10:00:54 '
-excerpt: Stellantis, the massive automaker behind brands like Jeep and Dodge, has admitted to a data breach that hit a third-party platform handling its North American customer services—blame it on the notorious ShinyHunters group, who's been on a r
+date: '2025-09-23 10:00:54 
+excerpt: Stellantis, the massive automaker behind brands like Jeep and Dodge, has admitted to a data breach that hit a third-party platform handling its North American customer services—blame it on the notorious ShinyHunters group
 seo_title: Car giant Stellantis confirms data breach after third-party hit by cyberattack
 seo_description: Stellantis, the massive automaker behind brands like Jeep and Dodge, has admitted to a data breach that hit a third-party platform handling its North Ameri
 categories:

@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Agents turn simple keyword search into compelling search experiences
-date: '2025-09-23 14:47:31 '
-excerpt: 'Traditional RAG systems might pack in fancy query smarts and reranking tricks to juice user engagement, but they''re often too bloated for AI agents to wrap their digital heads around effectively. Enter the agent-powered approach: by slappin'
+date: '2025-09-23 14:47:31 
+excerpt: 'Traditional RAG systems might pack in fancy query smarts and reranking tricks to juice user engagement, but they''re often too bloated for AI agents to wrap their digital heads around effectively.
 seo_title: Agents turn simple keyword search into compelling search experiences
 seo_description: Traditional RAG systems might pack in fancy query smarts and reranking tricks to juice user engagement, but they're often too bloated for AI agents to wrap
 categories:

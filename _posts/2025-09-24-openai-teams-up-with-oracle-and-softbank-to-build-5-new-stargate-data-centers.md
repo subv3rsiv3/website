@@ -1,10 +1,10 @@
 ---
 layout: single
 title: OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers
-date: '2025-09-24 00:44:44 '
-excerpt: OpenAI is ramping up its AI infrastructure game by partnering with Oracle and SoftBank to construct five new data centers in the US under the Stargate project, pushing total capacity to a whopping 7 gigawatts—think of it as powering a small
+date: '2025-09-24 00:44:44 
+excerpt: OpenAI is ramping up its AI infrastructure game by partnering with Oracle and SoftBank to construct five new data centers in the US under the Stargate project, pushing total capacity to a whopping 7 gigawatts
 seo_title: OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers
-seo_description: OpenAI is ramping up its AI infrastructure game by partnering with Oracle and SoftBank to construct five new data centers in the US under the Stargate proj
+seo_description: OpenAI is ramping up its AI infrastructure game by partnering with Oracle and SoftBank to construct five new data centers in the US under the Stargate project
 categories:
 - Microsoft365
 - AI_Automation

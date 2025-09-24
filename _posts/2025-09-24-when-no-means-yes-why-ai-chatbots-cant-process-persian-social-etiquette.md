@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 'When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette'
-date: '2025-09-24 01:30:06 '
-excerpt: 'Ever imagine your AI chatbot fumbling a simple conversation like a fish out of water? That''s exactly what''s happening with Persian taarof, a cultural ritual of polite refusals and insistences that AI models from OpenAI, Anthropic, and Meta '
+date: '2025-09-24 01:30:06
+excerpt: 'Ever imagine your AI chatbot fumbling a simple conversation like a fish out of water? That''s exactly what''s happening with Persian taarof'
 seo_title: 'When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette'
 seo_description: Ever imagine your AI chatbot fumbling a simple conversation like a fish out of water? That's exactly what's happening with Persian taarof, a cultural ritua
 categories:

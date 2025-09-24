@@ -2,7 +2,7 @@
 layout: single
 title: AI HR is my ongoing nightmare
 date: '2025-09-22 10:21:24 '
-excerpt: 'AI-powered HR tools are turning job hunting into a frustrating game of keyword bingo, where your meticulously crafted resume might get zapped into oblivion by an algorithm that''s more obsessed with templates than actual talent. With 92% of '
+excerpt: 'AI-powered HR tools are turning job hunting into a frustrating game of keyword bingo, where your meticulously crafted resume might get zapped into oblivion by an algorithm that''s more obsessed with templates than actual talent.'
 seo_title: AI HR is my ongoing nightmare
 seo_description: AI-powered HR tools are turning job hunting into a frustrating game of keyword bingo, where your meticulously crafted resume might get zapped into oblivion
 categories:

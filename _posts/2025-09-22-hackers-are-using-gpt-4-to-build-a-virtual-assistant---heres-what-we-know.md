@@ -2,7 +2,7 @@
 layout: single
 title: Hackers are using GPT-4 to build a virtual assistant - here's what we know
 date: '2025-09-22 14:00:52 '
-excerpt: Cybersecurity wonks at SentinelOne have dug up MalTerminal, a sneaky piece of malware that leverages GPT-4 to whip up ransomware or reverse shell code on the fly, essentially turning a large language model into a bad guy's code generator. T
+excerpt: Cybersecurity wonks at SentinelOne have dug up MalTerminal, a sneaky piece of malware that leverages GPT-4 to whip up ransomware or reverse shell code on the fly, essentially turning a large language model into a bad guy's code generator.
 seo_title: Hackers are using GPT-4 to build a virtual assistant - here's what we know
 seo_description: Cybersecurity wonks at SentinelOne have dug up MalTerminal, a sneaky piece of malware that leverages GPT-4 to whip up ransomware or reverse shell code on t
 categories:

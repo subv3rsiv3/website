@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 'Context Engineering for AI Agents: Lessons'
-date: '2025-09-23 18:47:15 '
-excerpt: When building AI agents like those at Manus, it's smarter to leverage in-context learning from beefy LLMs rather than wasting weeks fine-tuning models from scratch—trust me, that's a rookie mistake that'll kill your startup's momentum. Focu
+date: '2025-09-23 18:47:15 
+excerpt: When building AI agents like those at Manus, it's smarter to leverage in-context learning from beefy LLMs rather than wasting weeks fine-tuning models from scratch—trust me, that's a rookie mistake that'll kill your startup's momentum.
 seo_title: 'Context Engineering for AI Agents: Lessons'
 seo_description: When building AI agents like those at Manus, it's smarter to leverage in-context learning from beefy LLMs rather than wasting weeks fine-tuning models from
 categories:

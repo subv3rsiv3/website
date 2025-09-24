@@ -1,8 +1,8 @@
 ---
 layout: single
 title: DOJ aims to break up Google’s ad business as antitrust case resumes
-date: '2025-09-22 20:01:24 '
-excerpt: The Department of Justice is doubling down in its antitrust battle against Google, arguing that the tech giant's Ad Manager is the linchpin of its monopolistic grip on online display ads, and only a full structural breakup will restore fair
+date: '2025-09-22 20:01:24
+excerpt: The Department of Justice is doubling down in its antitrust battle against Google, arguing that the tech giant's Ad Manager is the linchpin of its monopolistic grip on online display ads
 seo_title: DOJ aims to break up Google’s ad business as antitrust case resumes
 seo_description: The Department of Justice is doubling down in its antitrust battle against Google, arguing that the tech giant's Ad Manager is the linchpin of its monopoli
 # categories:

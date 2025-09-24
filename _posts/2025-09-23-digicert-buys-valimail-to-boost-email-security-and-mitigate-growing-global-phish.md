@@ -1,8 +1,8 @@
 ---
 layout: single
 title: DigiCert buys Valimail to boost email security and mitigate growing global phishing threats using DMARC
-date: '2025-09-23 00:46:33 '
-excerpt: DigiCert is snapping up Valimail to supercharge its DigiCert ONE platform with advanced zero-trust email authentication, directly tackling the rampant phishing and spoofing threats that plague businesses worldwide through robust DMARC enfor
+date: '2025-09-23 00:46:33 
+excerpt: DigiCert is snapping up Valimail to supercharge its DigiCert ONE platform with advanced zero-trust email authentication, directly tackling the rampant phishing and spoofing threats that plague businesses worldwide
 seo_title: DigiCert buys Valimail to boost email security and mitigate growing global phishing threats using DMARC
 seo_description: DigiCert is snapping up Valimail to supercharge its DigiCert ONE platform with advanced zero-trust email authentication, directly tackling the rampant phis
 categories:
