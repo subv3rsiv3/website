@@ -1,18 +1,16 @@
 ---
 layout: single
 title: Cox Enterprises discloses Oracle E-Business Suite data breach
-date: '2025-11-24 08:33:32 '
-excerpt: Cox Enterprises, a massive conglomerate handling everything from telecom to automotive ops, just fessed up to a nasty data breach where hackers swiped personal info by exploiting a zero-day vulnerability in Oracle's E-Business Suite—yeah, that unpatched flaw hit them hard between August and September 2025
+date: '2025-11-24 08:38:04 '
+excerpt: Cox Enterprises just fessed up to a nasty data breach in their Oracle E-Business Suite, where hackers exploited a sneaky zero-day vulnerability (CVE-2025-61882) back in early August 2025, only getting caught a month later during a routine check—talk about a rude awakening for their back-office ops
 seo_title: Cox Enterprises discloses Oracle E-Business Suite data breach
-seo_description: Cox Enterprises, a massive conglomerate handling everything from telecom to automotive ops, just fessed up to a nasty data breach where hackers swiped pers
+seo_description: Cox Enterprises just fessed up to a nasty data breach in their Oracle E-Business Suite, where hackers exploited a sneaky zero-day vulnerability (CVE-2025-6
 categories:
 - Security
 - AI_Automation
-- Backup_DR
 tags:
 - Security
 - AI_Automation
-- Backup_DR
 permalink: /blog/cox-enterprises-discloses-oracle-e-business-suite-data-breach/
 header:
   image: /assets/images/cox-enterprises-discloses-oracle-e-business-suite-data-breach-hero.webp
@@ -24,6 +22,6 @@ twitter_image: /assets/images/cox-enterprises-discloses-oracle-e-business-suite-
 ---
 
 ![Cox Enterprises discloses Oracle E-Business Suite data breach](/assets/images/cox-enterprises-discloses-oracle-e-business-suite-data-breach-hero.webp)
-Cox Enterprises, a massive conglomerate handling everything from telecom to automotive ops, just fessed up to a nasty data breach where hackers swiped personal info by exploiting a zero-day vulnerability in Oracle's E-Business Suite—yeah, that unpatched flaw hit them hard between August and September 2025. The Cl0p ransomware crew, notorious for jumping on zero-days like this one (CVE-2025-61882) before patches drop, claimed credit and even splashed Cox's data on the dark web, joining a roster of victims including big names like Logitech and Harvard. It took Cox until late September to spot the intrusion, highlighting how even giants can lag in threat detection, and now they're offering free identity theft monitoring to over 9,000 affected folks. For SMBs and MSPs juggling similar enterprise software, this mess underscores the urgency of regular vulnerability scans and zero-day defenses—don't wait for the bad guys to knock; patch early and often to keep your data under wraps. Meanwhile, if you're relying on Oracle tools, double-check those updates and maybe rethink your backup strategies to avoid joining the breach hall of shame.
+Cox Enterprises just fessed up to a nasty data breach in their Oracle E-Business Suite, where hackers exploited a sneaky zero-day vulnerability (CVE-2025-61882) back in early August 2025, only getting caught a month later during a routine check—talk about a rude awakening for their back-office ops. The culprits? The notorious Cl0p ransomware gang, who’ve made a habit of jumping on unpatched flaws in big-name software like this one, hitting other victims from Logitech to Harvard along the way, and even bragging about it on their dark web leak site. With 9,479 folks' personal data potentially exposed, Cox is stepping up by offering free identity theft protection and credit monitoring for a year, which is a smart move, but it’s a stark reminder that even giants can slip up. For SMBs and MSPs juggling similar enterprise tools, this underscores the need to stay vigilant with regular vulnerability scans and rapid patching—don’t wait for the bad guys to ring the doorbell before you beef up your defenses.
 
 **Source:** [https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/)
