@@ -1,6 +1,6 @@
 layout: pdf-embed
 title: "PiHKAL"
-permalink: /PiHKAL
+permalink: /pihkal
 ---
 
 <h1 style="text-align: center">PiHKAL A Chemical Love Story</h1>
