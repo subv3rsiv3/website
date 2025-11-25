@@ -40,7 +40,6 @@ If you use Facebook Login or grant permissions to our App, we may receive data f
 - **email** — primary email address.
 - **pages_show_list / pages_read_engagement** — page-related metadata if you manage Pages and grant access.
 - **pages_manage_metadata** — to configure and display Page content in the App.
-- **[ADD ADDITIONAL PERMISSIONS YOU REQUEST]**
 
 > **Important:** We only request the minimum Facebook permissions needed for the App to function. Replace the list above with the specific permissions your App requests and the purpose for each.
 
