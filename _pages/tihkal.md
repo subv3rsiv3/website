@@ -1,3 +1,4 @@
+---
 layout: pdf-embed
 title: "TiHKAL"
 permalink: /tihkal
